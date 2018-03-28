@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\sean orme\google drive\cpsc 2380\cpsc.2380.level.examples\level.3.1.sorting\source.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\sean orme\google drive\cpsc 2380\cpsc.2380.level.examples\level.3.1.sorting\source.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\sean orme\google drive\cpsc 2380\cpsc.2380.level.examples\level.3.1.sorting\source.cpp(157): warning C4018: '<': signed/unsigned mismatch
+  Level.3.1.Sorting.vcxproj -> C:\Users\Sean Orme\Google Drive\CPSC 2380\CPSC.2380.Level.Examples\Debug\Level.3.1.Sorting.exe

@@ -1,0 +1,4 @@
+﻿  Binary.Search.Tree.cpp
+c:\users\smorme\google drive\cpsc 2380\cpsc.2380.level.examples\level.6.2.binary.search.trees\binary.search.tree.cpp(151): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\smorme\google drive\cpsc 2380\cpsc.2380.level.examples\level.6.2.binary.search.trees\binary.search.tree.cpp(155): warning C4553: '==': operator has no effect; did you intend '='?
+  Level.6.2.Binary.Search.Trees.vcxproj -> C:\Users\smorme\Google Drive\CPSC 2380\CPSC.2380.Level.Examples\Debug\Level.6.2.Binary.Search.Trees.exe

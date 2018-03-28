@@ -1,0 +1,4 @@
+﻿  Depth.First.Search.cpp
+c:\users\smorme\google drive\cpsc 2380\cpsc.2380.level.examples\level.6.3.breadth.first.search\depth.first.search.cpp(176): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\smorme\google drive\cpsc 2380\cpsc.2380.level.examples\level.6.3.breadth.first.search\depth.first.search.cpp(180): warning C4553: '==': operator has no effect; did you intend '='?
+  Level.6.3.Breadth.First.Search.vcxproj -> C:\Users\smorme\Google Drive\CPSC 2380\CPSC.2380.Level.Examples\Debug\Level.6.3.Breadth.First.Search.exe
